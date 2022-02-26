@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = shannongordon286@gmail.com
+	name = Shannon Gordon
